@@ -1,0 +1,4 @@
+# Set server port
+#server.port=9097
+server:
+  port: 9097
